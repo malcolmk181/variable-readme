@@ -13,3 +13,8 @@ puts example
 
 puts "variables are any previously undefined word that"
 puts "starts with a lowercase letter."
+
+some_word = "supercalifragilisticexpialidocious"
+
+puts some_word
+puts some_word.upcase
